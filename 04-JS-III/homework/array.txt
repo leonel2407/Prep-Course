@@ -1,0 +1,3 @@
+Array: permite almacenar una colección de varios 
+elementos bajo un solo nombre de variable , el ella
+se pueden realizar operaciones
